@@ -1,0 +1,9 @@
+.photo {
+    color: blue;
+}
+.profile-pic {
+    width: 300px; 
+    height: 300px; 
+    border-radius: 500%; 
+    object-fit: cover; 
+}
