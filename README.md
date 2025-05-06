@@ -72,7 +72,6 @@
 
 ## 🎒 Образование
 [<img src="/certificate_en2.png" width="280px" hspace="10px" alt="certificate»">](https://raw.githubusercontent.com/Anton777-max/Anton777-max/refs/heads/main/Stepic.png.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">]()
 
 <br>
 <br>
