@@ -71,7 +71,7 @@
 
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">]()
+[<img src="/certificate_en2.png" width="280px" hspace="10px" alt="certificate»">]()
 [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">]()
 
 <br>
